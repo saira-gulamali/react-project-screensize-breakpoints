@@ -1,5 +1,5 @@
 @import "tailwindcss";
 
 @theme {
-  --font-primary: Tiny5, sans-serif;
+  --font-primary: "Tiny5", sans-serif;
 }
